@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+         table, th, td {
+            border: 3px solid black;
+         }
+
+      </style>
+
+    <meta charset="UTF-8">
+    <title>Class Schedule</title>
+</head>
+<h1>Class Schedule Sem 2, 2021/2022</h1>
+<body>
+
+<table>
+    <tr>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wednesday</th>
+        <th>Thursday</th>
+        <th>Friday</th>
+        <th>Saturday</th>
+    </tr>
+
+    <tr>
+        <td style="background-color:#20a758;">
+            LM 2026 :
+            Bahasa Melayu Kerjaya (Sains Dan Teknologi)
+            <p style= "font-size:15px;"> 11.00 - 12:50 </p>
+        </td>
+        <td style="background-color:#6dd1d3;">
+            CSCI 2300 :
+            Data Structure and Algorithms 1
+            <p style= "font-size:15px;">08:30 - 09:50 </p>
+        </td>
+        <td style="background-color:#20a758;">
+            LM 2026 :
+            Bahasa Melayu Kerjaya (Sains Dan Teknologi)
+            <p style= "font-size:15px;"> 11.00 - 12:50 </p>
+        </td>
+        <td style="background-color:#6dd1d3;">
+            CSCI 2300 :
+            Data Structure and Algorithms 1
+            <p style= "font-size:15px;">08:30 - 09:50 </p>
+        </td>
+        <td> </td>
+        <td style="background-color: pink;">
+            CCFM :
+            Family Management
+            <p style= "font-size:15px;">10:00 - 12:00 </p>
+        </td>
+    </tr>
+
+    <tr>
+        <td style="background-color: yellow;">
+            INFO 2302 :
+            Web Technologies
+            <p style= "font-size:15px;">14:00 - 15:20 </p>
+        </td>
+        <td style="background-color:red;">
+            CSCI 2301
+            Computer Networking
+            <p style= "font-size:15px;">14:00 - 15:20 </p>
+        </td>
+        <td style="background-color: yellow;">
+            INFO 2302 :
+            Web Technologies
+            <p style= "font-size:15px;">14:00 - 15:20 </p>
+        </td>
+        <td style="background-color:red;">
+            CSCI 2301
+            Computer Networking
+            <p style= "font-size:15px;">14:00 - 15:20 </p>
+        </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+
+    <tr>
+        <td style="background-color: purple;">
+            INFO 2304 :
+            System Analysis And Design
+            <p style= "font-size:15px;">15:30 - 16:50 </p>
+        </td>
+        <td style="background-color: orange;">
+            CSCI 2305
+            Mathematic For Computing 2
+            <p style= "font-size:15px;">11:30 - 12:50 </p>
+        </td>
+        <td style="background-color: purple;">
+            INFO 2304 :
+            System Analysis And Design
+            <p style= "font-size:15px;">15:30 - 16:50 </p>
+        </td>
+        <td style="background-color: orange;">
+            <p style= "background-color:red;"></p>
+            CSCI 2305
+            Mathematic For Computing 2
+            <p style= "font-size:15px;">11:30 - 12:50 </p>
+        </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+</table>
+
+<form style="width:27%">
+    <fieldset>
+        <legend><h4>Contact</h4></legend>
+       <pre>Name : Muhammad Alif Haziq Bin Mohd Razmi </pre>
+       <pre>Matric Number : 2110091</pre>
+       <pre>Email :<a href= "mailto:alifrazmi15@gmail.com"> alifrazmi15@gmail.com</a></pre>
+        <pre>Contact Number : 011-10179069</pre>
+    </fieldset>
+</form>
+
+</body>
+</html>
